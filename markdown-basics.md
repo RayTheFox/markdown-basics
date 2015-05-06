@@ -33,7 +33,7 @@ Você pode indicar citações com um ```>```.
 ```
 Nas palavras de Abraham Lincoln:
 
-> Perdão meu amigo (?) 
+> Perdão meu amigo 
 ```
 
 ###Personalizando texto

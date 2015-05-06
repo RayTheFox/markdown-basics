@@ -106,17 +106,15 @@ Linhas multiplas
 
 Você pode usar acentos em trio (<code>```</code>) para formatar texto como seu próprio bloco distinto.
 
-````
-Veja esse elegante programa que eu escrevi:
 ```
+<code>```</code>
+Veja esse elegante programa que eu escrevi:
+
 x = 0
 x = 2 + 2
 que é x
-````
-
-
-
-
+<code>```</code>
+```
 
 ##Links
 

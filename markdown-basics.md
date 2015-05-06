@@ -1,20 +1,20 @@
-Básicos de Markdown
+#Básicos de Markdown
 
 Markdown permite você usar um formato de texto fácil de ler, fácil de escrever, *o qual então é convertido para HTML válido para amostra no GitHub.*
 
-Escrita Básica
+##Escrita Básica
 
-Parágrafos
+###Parágrafos
 
 Parágrafos em Markdown são apenas uma ou mais linhas de texto consecutivo seguidas de uma ou mais linhas em branco.
 
-
+```
 Em 2 de julho, uma nave mãe alienígena entrou na órbita da Terra e dispensou alguns veículos espaciais “destroyer” com formato de pires, cada um com 15 milhas (24 km) de distancia.
 
 Em 3 de julho, os Cavaleiros Negros, um esquadrão de F/A-18 Hornets da Marinha, participaram de uma invasão em um destroyer próximo à cidade de Los Angeles.
+```
 
-
-Cabeçalhos
+###Cabeçalhos
 
 Você pode criar um cabeçalho adicionando um ou mais símbolos # antes do seu texto de cabeçalho. O número de # que você usa irá determinar o tamanho do cabeçalho.
 

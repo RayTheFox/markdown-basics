@@ -120,4 +120,4 @@ que é x
 
 Você pode criar um link em linha cercando o texto do link em colchetes (```[ ]```), e então cercando o link em parenteses ( ```( )``` ).
 
-Por exemplo, para criar um hyperlink para www.github.com, com um texto que diz, Visita GitHub!, 
+Por exemplo, para criar um hyperlink para www.github.com, com um texto que diz, ```[Visita GitHub!]```,```(www.github.com)``` 

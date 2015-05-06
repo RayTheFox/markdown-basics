@@ -16,29 +16,29 @@ Em 3 de julho, os Cavaleiros Negros, um esquadrão de F/A-18 Hornets da Marinha,
 
 ###Cabeçalhos
 
-Você pode criar um cabeçalho adicionando um ou mais símbolos # antes do seu texto de cabeçalho. O número de # que você usa irá determinar o tamanho do cabeçalho.
+Você pode criar um cabeçalho adicionando um ou mais símbolos ```#``` antes do seu texto de cabeçalho. O número de # que você usa irá determinar o tamanho do cabeçalho.
 
 
-
+```
 # O maior cabeçalho (uma etiqueta <h1>)
 ## O segundo maior cabeçalho (uma etiqueta <h2>)
 …
 ###### O sexto maior cabeçalho (uma etiqueta <h6>)
+```
 
+###Citações
 
-Citações
+Você pode indicar citações com um ```>```.
 
-Você pode indicar citações com um >.
-
-
+```
 Nas palavras de Abraham Lincoln:
 
 > Perdão meu amigo (?) 
+```
 
+###Personalizando texto
 
-Personalizando texto
-
-Você pode fazer do texto negrito ou itálico
+Você pode fazer do texto **negrito** ou *itálico*
 
 
 *Esse texto será itálico*

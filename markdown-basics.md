@@ -88,7 +88,7 @@ Você pode criar listas ninhadas paragrafeando itens da lista por dois espaços
 2. Item 2
     * Um corolário que não precisa ser ordenado.
        * Isso é paragrafado em 4 espaços, porque é dois espaços a mais do que o item acima
-       *Você deve querer considerar fazer uma nova lista.
+       * Você deve querer considerar fazer uma nova lista.
 3. Item 3
 ```
 

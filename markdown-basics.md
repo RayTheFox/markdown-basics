@@ -96,7 +96,7 @@ Você pode criar listas ninhadas paragrafeando itens da lista por dois espaços
 
 ###Formatos em linha
 
-Use o acentos (``` \` ```) para formatar um texto em um formato de monoespaço especial. Tudo além das aspas aparece como é, com nenhum outro formato especial.
+Use o acentos (``` ` ```) para formatar um texto em um formato de monoespaço especial. Tudo além das aspas aparece como é, com nenhum outro formato especial.
 
 ```
 Aqui uma idéia: por que nós não pegamos `ProjetoSuperior` e tornamos isso em `**Projeto**Justo`.
@@ -104,7 +104,7 @@ Aqui uma idéia: por que nós não pegamos `ProjetoSuperior` e tornamos isso em 
 
 Linhas multiplas
 
-Você pode usar acentos em trio (`````` ```) para formatar texto como seu próprio bloco distinto.
+Você pode usar acentos em trio (```) para formatar texto como seu próprio bloco distinto.
 
 ```
 Veja esse elegante programa que eu escrevi:

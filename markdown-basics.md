@@ -1,6 +1,6 @@
 #Básicos de Markdown
 
-Markdown permite você usar um formato de texto fácil de ler, fácil de escrever, *o qual então é convertido para HTML válido para amostra no GitHub.*
+Markdown permite você usar um formato de texto fácil de ler, fácil de escrever, o qual então é convertido para HTML válido para amostra no GitHub.
 
 ##Escrita Básica
 

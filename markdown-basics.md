@@ -108,11 +108,11 @@ Você pode usar acentos em trio (<code>```</code>) para formatar texto como seu 
 
 ```
 Veja esse elegante programa que eu escrevi:
-_```
+```<code>
 x = 0
 x = 2 + 2
 que é x
-_```
+</code>
 ```
 
 

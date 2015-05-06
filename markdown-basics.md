@@ -104,7 +104,7 @@ Aqui uma idéia: por que nós não pegamos `ProjetoSuperior` e tornamos isso em 
 
 Linhas multiplas
 
-Você pode usar acentos em trio (```) para formatar texto como seu próprio bloco distinto.
+Você pode usar acentos em trio (<code>```</code>) para formatar texto como seu próprio bloco distinto.
 
 ```
 Veja esse elegante programa que eu escrevi:

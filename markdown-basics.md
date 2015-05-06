@@ -40,24 +40,24 @@ Nas palavras de Abraham Lincoln:
 
 Você pode fazer do texto **negrito** ou *itálico*
 
-
+```
 *Esse texto será itálico*
 **Esse texto será negrito**
+```
 
+Ambos **negrito** e *itálico* podem usar um ```*``` ou um ```_``` ao redor do texto para estilizar. Isso te permite combinar ambos negrito e itálico se necessario.
 
-Ambos negrito e itálico podem usar um * ou um _ ao redor do texto para estilizar. Isso te permite combinar ambos negrito e itálico se necessario.
-
-
+```
 **Todos _devem_ comparecer ao encontro às 5 em ponto hoje.** 
+```
 
 
+##Listas## 
 
-Listas
+###Listas desordenadas 
 
-Listas desordenadas
-
-Você pode fazer uma lista desordenada precedendo itens da lista com * ou –
-
+Você pode fazer uma lista desordenada precedendo itens da lista com ```*``` ou ```–```
+```
 * Item
 * Item 
 * Item 
@@ -65,23 +65,23 @@ Você pode fazer uma lista desordenada precedendo itens da lista com * ou –
 - Item 
 - Item
 - Item
+```
 
-
-Listas ordenadas
+###Listas ordenadas
 
 Você pode fazer uma lista ordenada precedendo itens da lista com um número.
 
-
+```
 1. Item 1     
 2. Item 2
 3. Item 3
+```
 
+###Listas ninhadas
 
-Listas em conjunto (?)
+Você pode criar listas ninhadas paragrafeando itens da lista por dois espaços
 
-Você pode criar listas em conjunto paragrafeando itens da lista por dois espaços
-
-
+```
 1.  Item 1
     1. corolário para o ítem acima
     2. Ainda outro ponto para considerar
@@ -90,34 +90,36 @@ Você pode criar listas em conjunto paragrafeando itens da lista por dois espaç
        * Isso é paragrafado em 4 espaços, porque é dois espaços a mais do que o item acima
        *Você deve querer considerar fazer uma nova lista.
 3. Item 3
+```
 
+##Formatação de código
 
-Formatação de código
+###Formatos em linha
 
-Formatos em linha
+Use o aspas (``` ` ```) para formatar um texto em um formato de monoespaço especial. Tudo além das aspas aparece como é, com nenhum outro formato especial.
 
-Use o acentos (`) para formatar um texto em um formato de monoespaço especial. Tudo além das aspas aparece como é, com nenhum outro formato especial.
-
-
+```
 Aqui uma idéia: por que nós não pegamos `ProjetoSuperior` e tornamos isso em `**Projeto**Justo`.
-
+```
 
 Linhas multiplas
 
-Você pode usar acentos triplos (```) para formatar texto como seu próprio bloco distinto.
+Você pode usar acentos triplos (`````` ```) para formatar texto como seu próprio bloco distinto.
 
 
 Veja esse elegante programa que eu escrevi:
 
 ```
+```
 x = 0
 x = 2 + 2
 que é x
 ```
+```
 
 
-Links
+##Links
 
-Você pode criar um link em linha cercando o texto do link em colchetes ([ ]), e então cercando o link em parenteses ( ( ) ).
+Você pode criar um link em linha cercando o texto do link em colchetes (```[ ]```), e então cercando o link em parenteses ( ```( )``` ).
 
 Por exemplo, para criar um hyperlink para www.github.com, com um texto que diz, Visita GitHub!, 
